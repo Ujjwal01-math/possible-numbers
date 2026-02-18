@@ -1,0 +1,1 @@
+This project calculates the possible number of ways a three-digit number can be scrambled using permutation logic. It takes a three-digit input and determines how many unique arrangements can be formed by rearranging its digits. The program demonstrates basic combinatorics concepts and simple algorithm implementation in an easy and understandable way.
